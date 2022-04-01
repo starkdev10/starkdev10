@@ -1,4 +1,3 @@
 Developer for Devcodr and NetUnblocked
-contact on discord @NetUnblcoked
-Instagram @instagram
+contact on discord @Starkdev10
 Titkok @starkdev10
