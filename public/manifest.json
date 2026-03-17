@@ -1,0 +1,12 @@
+{
+  "name": "Revision OS",
+  "short_name": "RevisionOS",
+  "start_url": "/today",
+  "display": "standalone",
+  "background_color": "#0B0F19",
+  "theme_color": "#4A6EF5",
+  "description": "Revision OS helps A-Level students plan and execute daily revision.",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
